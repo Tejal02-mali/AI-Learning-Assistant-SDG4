@@ -1,6 +1,4 @@
-# AI Learning Assistant
-
-## SDG Goal
+# AI Learning Assistant Live link - https://shorturl.at/HlD71
 
 SDG 4 - Quality Education
 
